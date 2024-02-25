@@ -1,2 +1,2 @@
 # TensorFlow
-foundations of deep learning and TensorFlow
+Foundations of deep learning and TensorFlow
